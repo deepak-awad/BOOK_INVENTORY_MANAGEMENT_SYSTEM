@@ -2,7 +2,7 @@
   "books": [
     {
       "bookTitle": "Pride and Prejudice",
-      "bookAuthor": "Jane Austen",
+      "bookAuthor": "Jane Austena",
       "publishedDate": "1813-01-26",
       "publisher": "T. Egerton",
       "overview": "A romantic novel that charts the emotional development of Elizabeth Bennet, the protagonist. As she navigates societal expectations and familial pressures, Elizabeth learns the importance of self-awareness and understanding. The novel critiques class and gender roles in early 19th-century England. With memorable characters and witty dialogue, Austen explores themes of love, reputation, and the transformative power of personal growth.",
@@ -15,14 +15,6 @@
       "publisher": "Little, Brown and Company",
       "overview": "A story about a teenager named Holden Caulfield, who feels disconnected from the adult world. As he embarks on a journey through New York City, Holden grapples with feelings of alienation and loss. He struggles with the complexities of growing up and the phoniness he perceives in society. The novel is a poignant exploration of adolescence, identity, and the quest for authenticity.",
       "id": "77ad"
-    },
-    {
-      "bookTitle": "Moby Dick",
-      "bookAuthor": "Herman Melville",
-      "publishedDate": "1851-10-18",
-      "publisher": "Richard Bentley",
-      "overview": "This narrative follows Captain Ahab's obsessive quest for revenge against Moby Dick, the giant white sperm whale. Ahab's single-minded pursuit leads him and his crew into perilous waters, exploring themes of fate, obsession, and the human condition. Melville weaves philosophical musings with rich symbolism throughout the tale. The novel examines humanity's struggle against nature and the limits of knowledge and understanding.",
-      "id": "fd90"
     },
     {
       "bookTitle": "The Hobbit",
@@ -143,6 +135,14 @@
       "publisher": "Charles Scribner's Sons",
       "overview": "A classic children's novel about a lonely girl, Mary Lennox, who discovers a hidden, neglected garden. As she tends to the garden, Mary undergoes a transformation, finding friendship and healing. The story explores themes of nature, renewal, and the power of love. With the help of her new friends, Mary learns to overcome her past and embrace life. Burnett's enchanting narrative celebrates the beauty of the natural world and the importance of connection.",
       "id": "g34h"
+    },
+    {
+      "id": "5620",
+      "bookTitle": "test",
+      "bookAuthor": "testsad",
+      "publishedDate": "2024-10-18",
+      "publisher": "sadasd",
+      "overview": "sadsadsadsa"
     }
   ]
 }
