@@ -1,5 +1,5 @@
-Getting Started to this React-App
-It will not find any dummy API for book so, it wwill use json-serevr
+Getting Started to this React-App <br>
+It will not find any dummy API for book so, it will use json-server
 
 React Application: http://localhost:3000/
 Json Server: http://localhost:5000/books
